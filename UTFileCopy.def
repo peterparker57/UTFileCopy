@@ -1,0 +1,3 @@
+LIBRARY "UTFileCopy"
+EXPORTS
+    SilentCopy @1

@@ -1,0 +1,5 @@
+obj/
+*.user
+*.pdb
+.vs/
+*.log
